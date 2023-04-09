@@ -17,7 +17,7 @@ The working process of the device is to use the camera to take pictures of the g
 
 The whole project is divided into a shooting recognition platform and four trash bins.
 
-img/draft of smart trash bin.jpg
+![image](https://github.com/qlkaaron/Smart-Trash-Bin/blob/main/img/draft of smart trash bin.jpg)
 Camera: This device connects to the Raspberry Pi using a USB tiny camera. The camera is fixed above the recognition area to ensure that the captured image can cover the area where the trash is placed.
 
 Servo and driver
