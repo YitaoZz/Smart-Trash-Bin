@@ -16,7 +16,8 @@ Laptop
 The working process of the device is to use the camera to take pictures of the garbage in the area and classify it. After the photo is taken, the Raspberry Pi recongnizes the garbage category of the object through yolov5, and outputs a signal to the control servo to open the trash bin.
 
 The whole project is divided into a shooting recognition platform and four trash bins.
-![image](https://github.com/qlkaaron/Smart-Trash-Bin/blob/main/img/draft of smart trash bin.jpg)
+
+img/draft of smart trash bin.jpg
 Camera: This device connects to the Raspberry Pi using a USB tiny camera. The camera is fixed above the recognition area to ensure that the captured image can cover the area where the trash is placed.
 
 Servo and driver
